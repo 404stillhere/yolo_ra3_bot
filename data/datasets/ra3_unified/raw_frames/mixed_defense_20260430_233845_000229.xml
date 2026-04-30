@@ -1,0 +1,26 @@
+<annotation>
+  <folder>raw_frames</folder>
+  <filename>mixed_defense_20260430_233845_000229.jpg</filename>
+  <path>M:\ra3_bot\data\datasets\ra3_unified\raw_frames\mixed_defense_20260430_233845_000229.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>SovietBaseDefenseAdvanced</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>910</xmin>
+      <ymin>347</ymin>
+      <xmax>994</xmax>
+      <ymax>476</ymax>
+    </bndbox>
+  </object>
+</annotation>

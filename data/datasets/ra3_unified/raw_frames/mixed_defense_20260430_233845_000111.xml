@@ -1,0 +1,26 @@
+<annotation>
+  <folder>raw_frames</folder>
+  <filename>mixed_defense_20260430_233845_000111.jpg</filename>
+  <path>M:\ra3_bot\data\datasets\ra3_unified\raw_frames\mixed_defense_20260430_233845_000111.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>SovietBarracks</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>176</ymin>
+      <xmax>85</xmax>
+      <ymax>331</ymax>
+    </bndbox>
+  </object>
+</annotation>
