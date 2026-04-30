@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw_frames</folder>
+	<filename>soviet_ffa_20260430_074959_000119.jpg</filename>
+	<path>M:\ra3_bot\data\datasets\ra3_unified\raw_frames\soviet_ffa_20260430_074959_000119.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SovietRefinery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1003</xmin>
+			<ymin>409</ymin>
+			<xmax>1303</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

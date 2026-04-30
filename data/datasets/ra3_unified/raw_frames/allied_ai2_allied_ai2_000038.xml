@@ -1,0 +1,14 @@
+<annotation>
+	<folder>raw_frames</folder>
+	<filename>allied_ai2_allied_ai2_000038.jpg</filename>
+	<path>M:\ra3_bot\data\datasets\ra3_unified\raw_frames\allied_ai2_allied_ai2_000038.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

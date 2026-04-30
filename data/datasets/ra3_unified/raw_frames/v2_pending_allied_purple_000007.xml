@@ -1,0 +1,14 @@
+<annotation>
+	<folder>raw_frames</folder>
+	<filename>v2_pending_allied_purple_000007.jpg</filename>
+	<path>M:\ra3_bot\data\datasets\ra3_unified\raw_frames\v2_pending_allied_purple_000007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

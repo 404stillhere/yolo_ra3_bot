@@ -1,0 +1,8 @@
+venv/
+runs/
+data/datasets/ra3_unified/images/
+data/datasets/ra3_unified/labels/
+data/datasets/ra3_unified/dataset.yaml
+data/datasets/ra3_unified/class_counts.csv
+__pycache__/
+*.pyc
